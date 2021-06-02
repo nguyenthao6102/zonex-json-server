@@ -35,12 +35,14 @@ POST {{baseUrl}}/{{resourceName}}
 Content-Type: application/json
 
 {
-  "categoryId": "28759f7e-3509-4064-920a-406dd426033a",
-  "name": "Tasty Plastic Chips",
-  "color": "cyan",
-  "price": 931,
-  "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-  "thumbnailUrl": "http://placeimg.com/400/400"
+		"categoryId": "3",
+		"name": "White Classic Sneakers",
+		"categories": "shoes",
+		"brands": "vans",
+		"description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
+		"image": "https://zonex.famithemes.com/wp-content/uploads/2019/05/sneaker-768x768.jpg",
+		"price": 40,
+		"featured": true
 }
 
 ###
@@ -50,9 +52,8 @@ PATCH {{baseUrl}}/{{resourceName}}/KkSXxPt
 Content-Type: application/json
 
 {
-  "name": "Tasty Plastic Chips Update",
-  "color": "red",
-  "price": 950
+	"name": "Tasty Plastic Chips Update",
+	"price": 950
 }
 
 ###

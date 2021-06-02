@@ -1,0 +1,41 @@
+@baseUrl=http://localhost:3001/api
+@resourceName=cart
+
+# Products
+
+# @name getAll
+GET {{baseUrl}}/{{resourceName}}
+
+###
+
+# @name addNew
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+			"categoryId": "1",
+			"productId":"2",
+            "name": "Shirt In Botanical Cheetah Print",
+            "categories": "clothes",
+            "brands": "roly",
+            "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
+            "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AC373_WX6799_m-768x969.jpg",
+            "price": 150,
+            "featured": false
+}
+
+###
+
+# @name update
+PATCH {{baseUrl}}/{{resourceName}}/KkSXxPt
+Content-Type: application/json
+
+{
+  "name": "Tasty Plastic Chips Update",
+  "price": 950
+}
+
+###
+
+# @name remove
+DELETE {{baseUrl}}/{{resourceName}}/1
