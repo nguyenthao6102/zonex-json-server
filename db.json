@@ -35,6 +35,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AD178_KA7663.jpg",
             "price": 500,
+            "oldPrice": 700,
             "featured": true
         },
         {
@@ -46,6 +47,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/L1848_WQ1476_d2-768x969.jpg",
             "price": 400,
+            "oldPrice": 500,
             "featured": false
         },
         {
@@ -57,6 +59,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/G1394_DM1554-768x969.jpg",
             "price": 300,
+            "oldPrice": null,
             "featured": true
         },
         {
@@ -68,6 +71,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/J6373_YL5461_m-768x969.jpg",
             "price": 200,
+            "oldPrice": null,
             "featured": true
         },
         {
@@ -79,6 +83,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/L1310_EC5461-768x969.jpg",
             "price": 200,
+            "oldPrice": 500,
             "featured": false
         },
         {
@@ -90,6 +95,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AD401_SU2811_m-768x969.jpg",
             "price": 300,
+            "oldPrice": 400,
             "featured": true
         },
         {
@@ -101,6 +107,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/M0479_DM3205_m-768x969.jpg",
             "price": 350,
+            "oldPrice": 400,
             "featured": true
         },
         {
@@ -112,6 +119,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/F4964_BL8133_m-768x969.jpg",
             "price": 450,
+            "oldPrice": null,
             "featured": false
         },
         {
@@ -123,6 +131,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/L6853_KA7868_m-768x969.jpg",
             "price": 350,
+            "oldPrice": null,
             "featured": true
         },
         {
@@ -134,6 +143,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AD569_PK5353-768x969.jpg",
             "price": 150,
+            "oldPrice": null,
             "featured": false
         },
         {
@@ -145,6 +155,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/05/Rainbow-ear-768x768.jpg",
             "price": 120,
+            "oldPrice": 300,
             "featured": true
         },
         {
@@ -156,6 +167,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/M2410_YL5486_d1-768x969.jpg",
             "price": 40,
+            "oldPrice": 150,
             "featured": true
         },
         {
@@ -167,6 +179,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AA339_WX6571_m-768x969.jpg",
             "price": 500,
+            "oldPrice": null,
             "featured": false
         },
         {
@@ -178,6 +191,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AD465_SU2732_d1-768x969.jpg",
             "price": 400,
+            "oldPrice": null,
             "featured": false
         },
         {
@@ -189,6 +203,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AA142_WX3265_m-768x969.jpg",
             "price": 400,
+            "oldPrice": null,
             "featured": true
         },
         {
@@ -200,6 +215,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AB663_BR5536_m-768x969.jpg",
             "price": 200,
+            "oldPrice": 340,
             "featured": true
         },
         {
@@ -211,6 +227,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/H4576_BL6039_m-1-768x969.jpg",
             "price": 200,
+            "oldPrice": null,
             "featured": false
         },
         {
@@ -222,6 +239,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AA846_SU2953_m-768x969.jpg",
             "price": 500,
+            "oldPrice": 600,
             "featured": true
         },
         {
@@ -233,6 +251,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/J6787_WU9457_m-768x969.jpg",
             "price": 350,
+            "oldPrice": 400,
             "featured": true
         },
         {
@@ -244,6 +263,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AA884_DM3845_m-768x969.jpg",
             "price": 450,
+            "oldPrice": null,
             "featured": false
         },
         {
@@ -255,6 +275,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AB524_WX6799-768x969.jpg",
             "price": 350,
+            "oldPrice": null,
             "featured": true
         },
         {
@@ -266,6 +287,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/05/Sw-1-768x768.jpg",
             "price": 150,
+            "oldPrice": 400,
             "featured": false
         },
         {
@@ -277,6 +299,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/J5634_BK0001_m-768x969.jpg",
             "price": 120,
+            "oldPrice": 350,
             "featured": true
         },
         {
@@ -288,6 +311,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/K1313_NA6903_d2-768x969.jpg",
             "price": 40,
+            "oldPrice": 130,
             "featured": true
         },
         {
@@ -299,6 +323,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/J2205_PK6272_m-768x969.jpg",
             "price": 500,
+            "oldPrice": 800,
             "featured": true
         },
         {
@@ -310,6 +335,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AC273_BL8133_m-670x845.jpg",
             "price": 400,
+            "oldPrice": null,
             "featured": false
         },
         {
@@ -321,6 +347,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/17557_WU7340_m-768x969.jpg",
             "price": 450,
+            "oldPrice": null,
             "featured": true
         },
         {
@@ -332,6 +359,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AC371_WX6956_m-768x969.jpg",
             "price": 200,
+            "oldPrice": null,
             "featured": true
         },
         {
@@ -343,6 +371,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/K1078_WX4076_m-768x969.jpg",
             "price": 200,
+            "oldPrice": null,
             "featured": false
         },
         {
@@ -354,6 +383,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AB605_BR6428_d1-768x969.jpg",
             "price": 300,
+            "oldPrice": null,
             "featured": true
         },
         {
@@ -365,6 +395,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AB098_EB3662-768x969.jpg",
             "price": 350,
+            "oldPrice": 400,
             "featured": true
         },
         {
@@ -376,6 +407,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/G9622_EG4404-768x969.jpg",
             "price": 450,
+            "oldPrice": 500,
             "featured": false
         },
         {
@@ -387,6 +419,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AC265_GR7084-768x969.jpg",
             "price": 350,
+            "oldPrice": 500,
             "featured": true
         },
         {
@@ -398,6 +431,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/AC373_WX6799_m-768x969.jpg",
             "price": 150,
+            "oldPrice": 235,
             "featured": false
         },
         {
@@ -409,6 +443,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/11/L0313_WT0002-768x969.jpg",
             "price": 120,
+            "oldPrice": 200,
             "featured": true
         },
         {
@@ -420,6 +455,7 @@
             "description": "We love the dramatic ruffle details down the sleeve, delicate fabric buttons and polished cuffs.",
             "image": "https://zonex.famithemes.com/wp-content/uploads/2019/05/sneaker-768x768.jpg",
             "price": 40,
+            "oldPrice": 100,
             "featured": true
         }
     ]
