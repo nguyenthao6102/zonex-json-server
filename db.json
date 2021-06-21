@@ -1,4 +1,12 @@
 {
+    "users": [
+        {
+            "id": "1",
+            "userName": "thao",
+            "password": "thao123"
+        }
+    ],
+
     "categories": [
         {
             "id": "1",
@@ -422,5 +430,6 @@
             "oldPrice": 100,
             "featured": true
         }
-    ]
+    ],
+    "orders": []
 }
